@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Pérez",
+    "puesto": "Desarrollador",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "María García",
+    "puesto": "Diseñadora",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos López",
+    "puesto": "Gerente de Proyecto",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Ana Martínez",
+    "puesto": "Analista",
+    "activo": false
+  },
+  {
+    "id": 5,
+    "nombre": "Luis Rodríguez",
+    "puesto": "Tester",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Sofía Fernández",
+    "puesto": "Desarrolladora",
+    "activo": false
+  },
+  {
+    "id": 7,
+    "nombre": "Miguel Sánchez",
+    "puesto": "Administrador de Sistemas",
+    "activo": true
+  },
+  {
+    "id": 8,
+    "nombre": "Laura Gómez",
+    "puesto": "Soporte Técnico",
+    "activo": false
+  },
+  {
+    "id": 9,
+    "nombre": "Jorge Díaz",
+    "puesto": "Consultor",
+    "activo": true
+  },
+  {
+    "id": 10,
+    "nombre": "Elena Torres",
+    "puesto": "Especialista en Seguridad",
+    "activo": false
+  }
+]
