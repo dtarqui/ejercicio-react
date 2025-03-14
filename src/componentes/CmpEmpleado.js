@@ -8,7 +8,7 @@ function CmpEmpleado({ empleado, cambiarEstadoEmpleado }) {
           {empleado.apellido} {empleado.nombre}
         </strong>
       </p>
-      <p>Cargo: {empleado.cargo}</p>
+      <p>Cargo: {empleado.puesto}</p>
       <p>
         Estado:{" "}
         <span className={empleado.activo ? "estado-activo" : "estadoinactivo"}>
